@@ -1,5 +1,5 @@
 import { Text, TextInput, TouchableOpacity, View } from "react-native";
-import { Participant } from "../components/participant";
+import { Participant } from "../../components/participant";
 import { styles } from "./styles";
 
 export default function Home() {
