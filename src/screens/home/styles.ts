@@ -25,7 +25,6 @@ export const styles = StyleSheet.create({
     color: "#FFFF",
     padding: 16,
     fontSize: 16,
-    marginRight: 12,
   },
   buttonText: {
     color: "#FFF",
@@ -42,6 +41,7 @@ export const styles = StyleSheet.create({
   form: {
     width: "100%",
     flexDirection: "row",
+    gap: 12,
     marginTop: 36,
     marginBottom: 42,
   },
